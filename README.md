@@ -1,1 +1,1 @@
-# Fix-Desktop-Icon-Handling-in-Windows-Explorer-Directory-Opus-C-Solution-
+Windows Shell Icon Handler Fix (Explorer + DOpus Full Compatibility)
